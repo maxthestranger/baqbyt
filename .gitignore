@@ -106,7 +106,7 @@ projectFilesBackup
 /content/images/**/*
 /content/adapters/storage/**/*
 /content/adapters/scheduling/**/*
-!/content/themes/bb
+!/content/themes/baqbyt
 !/README.md
 !/content/**/README.md
 
